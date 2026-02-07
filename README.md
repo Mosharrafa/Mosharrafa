@@ -16,7 +16,7 @@ Through projects ranging from vulnerability management to threat detection, I fo
 
 <h2>📜 Certifications:</h2>
 - Microsoft SC-200: Expected May 2026 <br>
-- CompTIA Security+: Expected Oct 2025 <br>
+- CompTIA Security+: Expected March 2026 <br>
 - CompTIA Network+ : Issued Sep 2025 · Expires Sep 2028
 
 ## 🤳 Connect with Me:
