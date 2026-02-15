@@ -15,6 +15,7 @@ Through projects ranging from vulnerability management to threat detection, I fo
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 - **[Devices Accidentally Exposed to the Internet](https://github.com/Mosharrafa/Devices-Accidentally-Exposed-to-the-Internet)**
 - **[Internal Network Slowdown Threat Hunt](https://github.com/Mosharrafa/Threat-hunt-internal-network-slowdown)**
+- **[Microsoft Defender for Endpoint Insider Data Exfiltration Investigation](https://github.com/Mosharrafa/Microsoft-Defender-for-Endpoint-Insider-Data-Exfiltration-Investigation)**
 
 <h2>📜 Certifications:</h2>
 - Microsoft SC-200: Expected May 2026 <br>
