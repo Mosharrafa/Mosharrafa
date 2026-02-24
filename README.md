@@ -16,6 +16,7 @@ Through projects ranging from vulnerability management to threat detection, I fo
 - **[Devices Accidentally Exposed to the Internet](https://github.com/Mosharrafa/Devices-Accidentally-Exposed-to-the-Internet)**
 - **[Internal Network Slowdown Threat Hunt](https://github.com/Mosharrafa/Threat-hunt-internal-network-slowdown)**
 - **[Microsoft Defender for Endpoint Insider Data Exfiltration Investigation](https://github.com/Mosharrafa/Microsoft-Defender-for-Endpoint-Insider-Data-Exfiltration-Investigation)**
+- **[Incident-Response-Brute-Force-Attempt-Detection](https://github.com/Mosharrafa/Incident-Response-Brute-Force-Attempt-Detection/blob/main/README.md)**
 
 <h2>📜 Certifications:</h2>
 - Microsoft SC-200: Expected May 2026 <br>
