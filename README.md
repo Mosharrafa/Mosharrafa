@@ -18,6 +18,7 @@ Through projects ranging from vulnerability management to threat detection, I fo
 - **[Microsoft Defender for Endpoint Insider Data Exfiltration Investigation](https://github.com/Mosharrafa/Microsoft-Defender-for-Endpoint-Insider-Data-Exfiltration-Investigation)**
 - **[Incident-Response-Brute-Force-Attempt-Detection](https://github.com/Mosharrafa/Incident-Response-Brute-Force-Attempt-Detection/blob/main/README.md)**
 - **[Incident Response Plan: Zero-Day Ransomware (PwnCrypt) Outbreak](https://github.com/Mosharrafa/Incident-Response-Plan-Zero-Day-Ransomware-PwnCrypt-Outbreak)**
+- **[Incident Response: PowerShell Suspicious Web Request](https://github.com/Mosharrafa/Incident-Response-Create-Alert-Rule-PowerShell-Suspicious-Web-Request-)**
 
 <h2>📜 Certifications:</h2>
 - Microsoft SC-200: Expected May 2026 <br>
