@@ -12,7 +12,7 @@ Through projects ranging from vulnerability management to threat detection, I fo
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)]()**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Mosharrafa/Threat-Hunt-Report-Unauthorized-TOR-Usage)**
 - **[Devices Accidentally Exposed to the Internet](https://github.com/Mosharrafa/Devices-Accidentally-Exposed-to-the-Internet)**
 - **[Internal Network Slowdown Threat Hunt](https://github.com/Mosharrafa/Threat-hunt-internal-network-slowdown)**
 - **[Microsoft Defender for Endpoint Insider Data Exfiltration Investigation](https://github.com/Mosharrafa/Microsoft-Defender-for-Endpoint-Insider-Data-Exfiltration-Investigation)**
