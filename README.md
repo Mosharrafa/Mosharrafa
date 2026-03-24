@@ -8,7 +8,7 @@ Through projects ranging from vulnerability management to threat detection, I fo
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/Mosharrafa/-Vulnerability-Management-Program-Implementation)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)]()**
 
 ## 🚨 Threat Hunting and Security Operations
 
