@@ -7,7 +7,7 @@ Through projects ranging from vulnerability management to threat detection, I fo
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation]()**
+- **[Enterprise-Grade Security Assessment & Remediation on Windows 11](https://github.com/Mosharrafa/Manual-Vulnerability-Remediation-on-Windows)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)]()**
 
 ## 🚨 Threat Hunting and Security Operations
