@@ -8,7 +8,7 @@ Through projects ranging from vulnerability management to threat detection, I fo
 ## ⚠️ Vulnerability Management Projects
 
 - **[Enterprise-Grade Security Assessment & Remediation on Windows 11](https://github.com/Mosharrafa/Manual-Vulnerability-Remediation-on-Windows)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)]()**
+- **[DISA-STIG-Remediation-and-Implementation](https://github.com/Mosharrafa/DISA-STIG-Remediation-and-Implementation)**
 
 ## 🚨 Threat Hunting and Security Operations
 
