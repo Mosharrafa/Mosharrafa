@@ -12,6 +12,7 @@ Through projects ranging from vulnerability management to threat detection, I fo
 
 ## 🚨 Threat Hunting and Security Operations
 
+- **[Threat Hunt Investigation:Helpdesk Deception](https://github.com/Mosharrafa/Helpdesk-deception)**
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Mosharrafa/Threat-Hunt-Report-Unauthorized-TOR-Usage)**
 - **[SOC Investigation: VM Compromise via RDP Password Spray](https://github.com/Mosharrafa/SOC-Investigation-VM-Compromise-RDP-Password-Spray/tree/main)**
 - **[Threat Hunt Investigation: Corporate Espionage via RDP — Azuki:Port of Entry](https://github.com/Mosharrafa/Threat-Hunt-Investigation-Corporate-Espionage-via-RDP-Full-Attack-Chain-Reconstruction)**
